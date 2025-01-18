@@ -1,4 +1,4 @@
-#Ostad Module 18 Assignment
+## Ostad Module 18 Assignment
 
 //Task: Develop a Product Management System in Laravel & use Eloquent ORM that allows users to perform the following operations:
 Create a new product
